@@ -1,2 +1,2 @@
 # novo curriculo
-Meu novo feito em html e css
+Meu novo curriculo feito em html e css
